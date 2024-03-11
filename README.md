@@ -26,3 +26,13 @@ The FOOTER section likely contains shared code, functions, or constants that are
 
 Development Environment
 The source code is written in Full Free Format RPG, emphasizing a modern and flexible programming style. This allows for improved readability, maintainability, and adherence to contemporary RPG coding standards.
+
+![LoginPage](https://github.com/Siva-Subramaniam-DS/AS400---Project/assets/138869164/3070c75d-1d1c-4866-acae-63e7385e0b20)
+![C1](https://github.com/Siva-Subramaniam-DS/AS400---Project/assets/138869164/5d7c09b9-06be-4ada-86f7-351759c40d9e)
+![C2](https://github.com/Siva-Subramaniam-DS/AS400---Project/assets/138869164/bb3e2bb2-1d2d-4d55-88c9-1de47a4ab79a)
+![C3](https://github.com/Siva-Subramaniam-DS/AS400---Project/assets/138869164/5e2c5336-cba8-41b7-ab67-7351a92c354e)
+![C4](https://github.com/Siva-Subramaniam-DS/AS400---Project/assets/138869164/8919ed11-85e3-4d70-b22f-5e698620d81a)
+![V1](https://github.com/Siva-Subramaniam-DS/AS400---Project/assets/138869164/73145ceb-d6c9-4411-a8e2-5b8fa3c70758)
+![V2](https://github.com/Siva-Subramaniam-DS/AS400---Project/assets/138869164/a2b8e476-3f7b-4009-bfe2-6ebd5e525756)
+![V3](https://github.com/Siva-Subramaniam-DS/AS400---Project/assets/138869164/85f63ec0-5477-4ea6-9f39-73026e312e98)
+![V4](https://github.com/Siva-Subramaniam-DS/AS400---Project/assets/138869164/00551dc0-3a24-4da0-8f14-7e7477a69c29)
