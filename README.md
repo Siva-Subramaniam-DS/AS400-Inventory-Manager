@@ -1,4 +1,4 @@
-## Table of Contents :round_pushpin:
+## Table of Contents 📍
 - [Overview](#overview)
 - [Components](#components)
   - [Login Page](#login_page)
