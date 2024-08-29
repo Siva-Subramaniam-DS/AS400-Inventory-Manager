@@ -1,5 +1,3 @@
-# Inventory Management System for AS400 🗄️
-
 ## Table of Contents :round_pushpin:
 - [Overview](#overview)
 - [Components](#components)
