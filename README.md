@@ -16,31 +16,31 @@ This project is an Inventory Management System developed for the AS400 platform.
 
 ## `Components`
 
-## `Login Page`
+## Login Page
 The Login Page serves as the entry point for users, prompting them for authentication credentials. Upon successful login, users are redirected to their respective dashboards.
 
-## `Customer Dashboard`
+## Customer Dashboard
 The Customer Dashboard offers a user-friendly interface for customers to interact with the inventory system. It may include features such as order history, product details, and other customer-specific functionalities.
 
-## `Vendor Dashboard1`
+## Vendor Dashboard1
 The Vendor Dashboard provides vendors with tools to manage their inventory, update product information, and perform various vendor-specific tasks.
 
-## `Customer Dash1, Customer Dash2, Customer Dash3`
+## Customer Dash1, Customer Dash2, Customer Dash3
 These components likely represent different views or functionalities within the Customer Dashboard, allowing for a modular and organized approach to customer-related features.
 
-## `Vendor Dash2, Vendor Dash3`
+## Vendor Dash2, Vendor Dash3
 Similar to the customer dashboards, these components represent different views or functionalities within the Vendor Dashboard, providing a structured approach to vendor-specific tasks.
 
-## `VendSFL, VendSFLCTL`
+## VendSFL, VendSFLCTL
 These components are associated with handling subfile (SFL) functionality, which is commonly used in AS400 programming for displaying lists of records.
 
-## `Footer`
+## Footer
 The FOOTER section likely contains shared code, functions, or constants that are common across multiple components, promoting code reusability and maintainability.
 
-## `Development Environment`
+## Development Environment
 The source code is written in Full Free Format RPG, emphasizing a modern and flexible programming style. This allows for improved readability, maintainability, and adherence to contemporary RPG coding standards.
 
-## `Visual Representation`
+## Visual Representation
 ![LoginPage](https://github.com/Siva-Subramaniam-DS/AS400---Project/assets/138869164/3070c75d-1d1c-4866-acae-63e7385e0b20)
 ![C1](https://github.com/Siva-Subramaniam-DS/AS400---Project/assets/138869164/5d7c09b9-06be-4ada-86f7-351759c40d9e)
 ![C2](https://github.com/Siva-Subramaniam-DS/AS400---Project/assets/138869164/bb3e2bb2-1d2d-4d55-88c9-1de47a4ab79a)
