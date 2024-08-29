@@ -1,4 +1,5 @@
-## Table of Contents 📍
+# Table of Content 📍
+
 - [Overview](#overview)
 - [Components](#components)
   - [Login Page](#login_page)
